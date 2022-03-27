@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5f46190c-137c-8034-4567-a21c8a6c38c0
 resourcetype: Document
 title: 'Lecture 14 Handout: Bauhaus'
 uid: 47de41a6-e484-7da2-ec43-f8bdba5877e5

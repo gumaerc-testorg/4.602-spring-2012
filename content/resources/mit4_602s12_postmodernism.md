@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5f46190c-137c-8034-4567-a21c8a6c38c0
 resourcetype: Document
 title: 'Lecture Handout: Mapping Postmodernism'
 uid: bc1a41ce-ca86-249b-c75d-dd71196e12a5

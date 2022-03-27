@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 57f9c4f7-4fe2-b21f-bd63-e3927cc3d626
 resourcetype: Document
 title: '4.602 Modern Art and Mass Culture Assignment: Paper 3'
 uid: 71a11c25-6ae3-9023-5228-190265b7f38c
