@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the course assignments,
+  including an oral presentation and five papers.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -29,7 +31,7 @@ Using slides, power-point, video, animation, or other visual materials, present 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Oral Presentation Guidelines (PDF)]({{< baseurl >}}/resources/mit4_602s12_opresentation)
+{{% resource_link 08c41734-f7e7-f562-7370-01582a2dc050 "Oral Presentation Guidelines (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +46,7 @@ Write an essay of five to seven pages on the subject of Delacroix and modernism.
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Paper 1 Guidelines (PDF)]({{< baseurl >}}/resources/mit4_602s12_paper1)
+{{% resource_link 45c69dee-af41-36a6-5632-b0eaa72b1cbb "Paper 1 Guidelines (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +61,7 @@ Write a five page essay, as a take-home portion of the midterm exam, on the subj
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Paper 2 Guidelines (PDF)]({{< baseurl >}}/resources/mit4_602s12_paper2)
+{{% resource_link c620282c-e70d-a922-0b87-8a18c7c1de7a "Paper 2 Guidelines (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +76,7 @@ Write a five to seven page essay comparing Clement Greenberg's "Avant-Garde and 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Paper 3 Guidelines (PDF)]({{< baseurl >}}/resources/mit4_602s12_paper3)
+{{% resource_link 71a11c25-6ae3-9023-5228-190265b7f38c "Paper 3 Guidelines (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +91,7 @@ Take the previous paper that received the lowest grade, conduct further research
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Paper 4 Guidelines (PDF)]({{< baseurl >}}/resources/mit4_602s12_paper4)
+{{% resource_link 83f5fd66-5e43-416b-28c7-7c78938d31f2 "Paper 4 Guidelines (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +106,7 @@ Write an essay of 10 to 15 pages on an artist, genre, or movement of your choice
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Paper 5 Guidelines (PDF)]({{< baseurl >}}/resources/mit4_602s12_paper5)
+{{% resource_link 6a6f9376-e272-3b48-52aa-d7b12651a955 "Paper 5 Guidelines (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
