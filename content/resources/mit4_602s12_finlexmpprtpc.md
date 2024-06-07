@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about final exam paper topic.
 file: /courses/4-602-modern-art-and-mass-culture-spring-2012/7855a0487712f7cc7cad7d71340db0de_MIT4_602S12_Finlexmpprtpc.pdf
+file_size: 118530
 file_type: application/pdf
 learning_resource_types:
 - Exams
