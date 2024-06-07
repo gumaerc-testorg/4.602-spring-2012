@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding final review.
 file: /courses/4-602-modern-art-and-mass-culture-spring-2012/837089c14b4a6eacb64ab50ad54e4d59_MIT4_602S12_Finalreview.pdf
+file_size: 618270
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
