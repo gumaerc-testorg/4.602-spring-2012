@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about paper 1.
-file: /courses/4-602-modern-art-and-mass-culture-spring-2012/45c69deeaf4136a65632b0eaa72b1cbb_MIT4_602S12_paper1.pdf
+file: /ol-ocw-studio-app/courses/4-602-modern-art-and-mass-culture-spring-2012/45c69deeaf4136a65632b0eaa72b1cbb_MIT4_602S12_paper1.pdf
 file_size: 92339
 file_type: application/pdf
 learning_resource_types:
