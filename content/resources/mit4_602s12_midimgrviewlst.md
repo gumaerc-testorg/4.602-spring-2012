@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about midterm image view list.
-file: /ol-ocw-studio-app/courses/4-602-modern-art-and-mass-culture-spring-2012/2c50c3bc0fb40a8d92c15b58dfe0190e_MIT4_602S12_Midimgrviewlst.pdf
+file: /courses/4-602-modern-art-and-mass-culture-spring-2012/2c50c3bc0fb40a8d92c15b58dfe0190e_MIT4_602S12_Midimgrviewlst.pdf
 file_size: 237422
 file_type: application/pdf
 learning_resource_types:
