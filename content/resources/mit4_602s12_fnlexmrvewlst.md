@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about final exam view list.
-file: /courses/4-602-modern-art-and-mass-culture-spring-2012/cfacda01f3fa2308a2fcc8bd004424ed_MIT4_602S12_Fnlexmrvewlst.pdf
+file: /ol-ocw-studio-app/courses/4-602-modern-art-and-mass-culture-spring-2012/cfacda01f3fa2308a2fcc8bd004424ed_MIT4_602S12_Fnlexmrvewlst.pdf
 file_size: 615692
 file_type: application/pdf
 learning_resource_types:
