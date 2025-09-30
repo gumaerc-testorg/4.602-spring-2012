@@ -37,7 +37,7 @@ Berger, John. Chapters 1 and 7 in *Ways of Seeing.* Penguin Group, 2009. ISBN: 9
 
 ### Optional
 
-View John Berger's BBC program, "[*Ways of Seeing*](http://www.imdb.com/title/tt1302546/)," Episode 1. 1972.
+View John Berger's BBC program, "{{% resource_link "5968daca-e9c7-4b88-8820-278d47621dfa" "*Ways of Seeing*" %}}," Episode 1. 1972.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 2–Mass Culture and Revolution**
@@ -95,7 +95,7 @@ Baudelaire, Charles. "The Salon of 1846: On the Heroism of Modern Life." In *Mod
 
 Clark, T. J. "The Painting of Modern Life," and "Preliminaries to a Possible Treatment of Manet's Olympia in 1865." In \[Frascina\].
 
-Wolff, Janet. "[The Invisible Flâneuse: Women and the Literature of Modernity](http://dx.doi.org/10.1177/0263276485002003005)." *Theory, Culture and Society 2*, no. 3 (1985): 37–46.
+Wolff, Janet. "{{% resource_link "9e794e13-598c-4500-aad8-ab397653c551" "The Invisible Flâneuse: Women and the Literature of Modernity" %}}." *Theory, Culture and Society 2*, no. 3 (1985): 37–46.
 
 Also available in:
 
@@ -149,7 +149,7 @@ Serial Impressions (Print and Eye)
 
 Eisenman, Stephen. "The Intransigent Artist or How the Impressionists Got their Name." In \[Frascina\].
 
-Isaacson, Joel. ["Impressionism and Journalistic Illustration." (PDF - 1.7MB)](https://www.msu.edu/course/ha/446/joelisaacson.pdf) *Arts* 56 (1982): 95–115.
+Isaacson, Joel. {{% resource_link "a520fa43-329d-4ec9-b622-2cdb46a5cd78" "\"Impressionism and Journalistic Illustration.\" (PDF - 1.7MB)" %}} *Arts* 56 (1982): 95–115.
 
 Goldwater, Robert. "l'Affiche moderne: A Revival of Poster Art After 1880." *Gazette des Beaux Arts* 22, no. 910 (1941): 173–82.
 
@@ -159,7 +159,7 @@ Goldwater, Robert. "l'Affiche moderne: A Revival of Poster Art After 1880." *Gaz
 Picasso's Cubism: Politics and/or Semiosis
 {{< tdclose >}}{{< tdopen >}}
 
-Leighten, Patricia. ["The White Peril and *L'Art negre*: Picasso, Primitivism, and Anticolonialism." (PDF - 5.6MB)](http://www.csus.edu/indiv/o/obriene/art116/Readings/Leighton%20Primitivism%20and%20Anticolonialism.pdf) *Art Bulletin* 72 (1990): 609–30.
+Leighten, Patricia. {{% resource_link "f0344752-cc3c-4150-b7ea-fc246929a99c" "\"The White Peril and *L'Art negre*: Picasso, Primitivism, and Anticolonialism.\" (PDF - 5.6MB)" %}} *Art Bulletin* 72 (1990): 609–30.
 
 Krauss, Rosalind. "In the Name of Picasso." 1981. In \[Frascina\].
 
@@ -187,9 +187,9 @@ Crow, Thomas. "Modernism and Mass Culture in the Visual Arts. " In *Modern Art i
 
 ### Optional
 
-Gough, Maria. "Formulating Production." Chapter 3 in *The Artist as Producer: Russian Constructivism in Revolution*. University of California Press, 2005. ISBN: 9780520226180. \[Preview with [Google Books](http://books.google.com/books?id=KCJHxeNQuGMC&pg=PA101#v=onepage)\]
+Gough, Maria. "Formulating Production." Chapter 3 in *The Artist as Producer: Russian Constructivism in Revolution*. University of California Press, 2005. ISBN: 9780520226180. \[Preview with {{% resource_link "38377c33-286a-47eb-8ba0-486606f71f13" "Google Books" %}}\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262112895) Kiaer, Christina. "The Socialist Object." Chapter 1 in [*Imagine No Possessions: The Socialist Objects of Russian Constructivism*](https://mitpress.mit.edu/9780262112895). MIT Press, 2005. ISBN: 9780262112895.
+{{% resource_link "faa2c391-60d2-4057-995c-fee61410829e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kiaer, Christina. "The Socialist Object." Chapter 1 in {{% resource_link "faa2c391-60d2-4057-995c-fee61410829e" "*Imagine No Possessions: The Socialist Objects of Russian Constructivism*" %}}. MIT Press, 2005. ISBN: 9780262112895.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -237,7 +237,7 @@ Bataille, Georges. "The Lugubrious Game." 1929. In \[Harrison\].
 
 Gropius, Walter. "The Theory and Organization of the Bauhaus." 1923. In \[Harrison\].
 
-Koss, Juliet. "[Bauhaus Theater of Human Dolls](http://www.jstor.org/stable/3177367)." *The Art Bulletin* 85, no. 4 (2003): 724–45.
+Koss, Juliet. "{{% resource_link "3ce143c7-6132-4913-8135-dbfe089eb44d" "Bauhaus Theater of Human Dolls" %}}." *The Art Bulletin* 85, no. 4 (2003): 724–45.
 
 \[Foster\]. Vol. 1, pp. 191–5, pp. 196–201, pp. 214–9 and pp. 224–7.
 
@@ -295,11 +295,11 @@ Oldenburg, Claes. "Documents from The Store." 1961. In \[Harrison\].
 
 Jones, Caroline A. "Globalism / Globalization." In *Art and Globalization*. Edited by James Elkins, Zhivka Valiavicharska, and Alice Kim. Penn State Press, 2011. ISBN: 9780271037172.
 
-Jameson, Fredric. "[Periodizing the 60s](http://www.jstor.org/stable/466541)." *Social Text,* no. 9/10, The 60's without Apology (1984): 178–209.
+Jameson, Fredric. "{{% resource_link "f33ad49f-49e7-4ffb-9a3f-44dfe9f0a78a" "Periodizing the 60s" %}}." *Social Text,* no. 9/10, The 60's without Apology (1984): 178–209.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262511179) Camnitzer, Luis. "Contemporary Colonial Art." In *Conceptual Art: A Critical Anthology.* Edited by Alexander Alberro and Blake Stimson. MIT Press, 2000. ISBN: 9780262511179. \[Preview with [Google Books](http://books.google.com/books?id=sJGzxp1Q9fYC&pg=PA257#v=onepage)\]
+{{% resource_link "b2a9d67a-aa05-41fe-8a0b-49c85dda8d85" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Camnitzer, Luis. "Contemporary Colonial Art." In *Conceptual Art: A Critical Anthology.* Edited by Alexander Alberro and Blake Stimson. MIT Press, 2000. ISBN: 9780262511179. \[Preview with {{% resource_link "db772583-cd79-406a-8023-68ebf0869a48" "Google Books" %}}\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262511179) Meireles, Cildo. "Insertions in Ideological Circuits." In *Conceptual Art: A Critical Anthology*. Edited by Alexander Alberro and Blake Stimson. MIT Press, 2000. ISBN: 9780262511179. \[Preview with [Google Books](http://books.google.com/books?id=sJGzxp1Q9fYC&pg=PA265#v=onepage)\].
+{{% resource_link "b2a9d67a-aa05-41fe-8a0b-49c85dda8d85" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Meireles, Cildo. "Insertions in Ideological Circuits." In *Conceptual Art: A Critical Anthology*. Edited by Alexander Alberro and Blake Stimson. MIT Press, 2000. ISBN: 9780262511179. \[Preview with {{% resource_link "d9d1a1a2-3218-4614-92b6-0c70d649b8f9" "Google Books" %}}\].
 
 \[Foster\]. Vol. 2, (Lichtenstein, Warhol, etc.) pp. 483–7, (Oldenburg) pp. 488–93 and (more Warhol) pp. 530–5.
 
@@ -341,9 +341,9 @@ Owens, Craig. "The Discourse of Others: Feminists and Postmodernism." In *Beyond
 New Media / Mass Media / Sensory Reconfigurations
 {{< tdclose >}}{{< tdopen >}}
 
-Jones, Caroline A. "[The Server/User Mode: The Art of Olafur Eliasson](https://www.artforum.com/features/the-server-user-mode-the-art-of-olafur-eliasson-180893/)." *Artforum International* 46, no. 2 (2007): 316–25.
+Jones, Caroline A. "{{% resource_link "c5e886d6-3f50-4958-8e22-a6e7f7632906" "The Server/User Mode: The Art of Olafur Eliasson" %}}." *Artforum International* 46, no. 2 (2007): 316–25.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262101172) ———. Excerpt from "The Mediated Sensorium." In [*Sensorium: Embodied Experience, Technology, and Contemporary Art*](https://mitpress.mit.edu/9780262101172). MIT Press, 2006. ISBN: 9780262101172.
+{{% resource_link "d93ae7af-2e47-45c7-a962-eef6a6192144" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. Excerpt from "The Mediated Sensorium." In {{% resource_link "d93ae7af-2e47-45c7-a962-eef6a6192144" "*Sensorium: Embodied Experience, Technology, and Contemporary Art*" %}}. MIT Press, 2006. ISBN: 9780262101172.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -359,7 +359,7 @@ Smith, William S. "Optics." In *Carsten Höller: Experience*.  Skira Rizzoli, 2
 
 Celant, Germano. "Participation." In *Carsten Höller: Experience*. Skira Rizzoli, 2011. ISBN: 9780847837601.
 
-Jones, Caroline A. ["Troubled Waters: Caroline A. Jones on Globalism and the Venice Biennale."](https://www.artforum.com/columns/globalism-and-the-venice-biennale-173349/) *Artforum International* 44, no. 6 (2006): 91–2.
+Jones, Caroline A. {{% resource_link "b1c58176-f414-4334-b7cd-dcb78b1f8d0b" "\"Troubled Waters: Caroline A. Jones on Globalism and the Venice Biennale.\"" %}} *Artforum International* 44, no. 6 (2006): 91–2.
 
 \[Foster\]. Vol. 2, pp. 758–69.
 
@@ -375,29 +375,29 @@ Guest lecturers: Star TAs, Rebecca Uchill and Niko Vicario!
 
 {{< tdclose >}}{{< tdopen >}}
 
-Spiegler, Marc. ["When Human Beings Are the Canvas." (PDF)](http://www.marcspiegler.com/Articles/ArtNews/ArtNews_Profile_Sierra_2003_06.pdf). *Art News* 102, no. 6 (2003): 94–7.
+Spiegler, Marc. {{% resource_link "0a3ef9db-7357-468d-8d05-86289eca5793" "\"When Human Beings Are the Canvas.\" (PDF)" %}}. *Art News* 102, no. 6 (2003): 94–7.
 
-Fraser, Andrea. ["From the Critique of Institutions to an Institution of Critique." (PDF)](http://www.marginalutility.org/wp-content/uploads/2010/07/Andrea-Fraser_From-the-Critique-of-Institutions-to-an-Institution-of-Critique.pdf) *Artforum* 44, no. 1 (2005): 278–83.
+Fraser, Andrea. {{% resource_link "e5b5643e-e45a-4e4b-a019-af7c75e3b9c2" "\"From the Critique of Institutions to an Institution of Critique.\" (PDF)" %}} *Artforum* 44, no. 1 (2005): 278–83.
 
-Riding, Alan. "[Alas, Poor Art Market: A Multimillion-Dollar Head Case](http://www.nytimes.com/2007/06/13/arts/design/13skul.html)," *New York Times*, June 13, 2007.
+Riding, Alan. "{{% resource_link "bfc1dd6e-e61e-4491-b38f-3bc3e9235883" "Alas, Poor Art Market: A Multimillion-Dollar Head Case" %}}," *New York Times*, June 13, 2007.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201506) Thompson, Nato, and Gregory Sholette, eds. "Foreword to the Second Printing." In [*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*](https://mitpress.mit.edu/9780262201506). 2nd ed. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
+{{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Thompson, Nato, and Gregory Sholette, eds. "Foreword to the Second Printing." In {{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*" %}}. 2nd ed. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201506) Thompson, Nato. "Trespassing Relevance." In [*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*](https://mitpress.mit.edu/9780262201506). 2nd ed. Edited by Nato Thompson and Gregory Sholette. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
+{{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Thompson, Nato. "Trespassing Relevance." In {{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*" %}}. 2nd ed. Edited by Nato Thompson and Gregory Sholette. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201506) "Krzysztof Wodiczko." In [*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*](https://mitpress.mit.edu/9780262201506). 2nd ed. Edited by Nato Thompson and Gregory Sholette. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
+{{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} "Krzysztof Wodiczko." In {{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*" %}}. 2nd ed. Edited by Nato Thompson and Gregory Sholette. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201506) "Michael Rakowitz." In [*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*](https://mitpress.mit.edu/9780262201506). 2nd ed. Edited by Nato Thompson and Gregory Sholette. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
+{{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} "Michael Rakowitz." In {{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*" %}}. 2nd ed. Edited by Nato Thompson and Gregory Sholette. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201506) "The Reverend Billy." In [*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*](https://mitpress.mit.edu/9780262201506). 2nd ed. Edited by Nato Thompson and Gregory Sholette. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
+{{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} "The Reverend Billy." In {{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*" %}}. 2nd ed. Edited by Nato Thompson and Gregory Sholette. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201506) "The Yes Men." In [*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*](https://mitpress.mit.edu/9780262201506). 2nd ed. Edited by Nato Thompson and Gregory Sholette. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
+{{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} "The Yes Men." In {{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*" %}}. 2nd ed. Edited by Nato Thompson and Gregory Sholette. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201506) "The Atlas Group." In [*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*](https://mitpress.mit.edu/9780262201506). 2nd ed. Edited by Nato Thompson and Gregory Sholette. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
+{{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} "The Atlas Group." In {{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*" %}}. 2nd ed. Edited by Nato Thompson and Gregory Sholette. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201506) "Critical Art Ensemble with Beatriz da Costa." In [*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*](https://mitpress.mit.edu/9780262201506). 2nd ed. Edited by Nato Thompson and Gregory Sholette. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
+{{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} "Critical Art Ensemble with Beatriz da Costa." In {{% resource_link "336d86fe-33c7-4c05-bd0c-ba31f220d51a" "*The Interventionists: Users' Manual for the Creative Disruption of Everyday Life*" %}}. 2nd ed. Edited by Nato Thompson and Gregory Sholette. MASS MoCA, and MIT Press, 2006. ISBN: 9780262201506.
 
-Lambert-Beatty, Carrie. ["Twelve Miles: Boundaries of the New Art/Activism." (PDF)](http://www.contemporaryfeminism.com/Lambert_Beatty.pdf) *Signs: Journal of Women in Culture and Society* 33, no. 2 (2008): 309–28.
+Lambert-Beatty, Carrie. {{% resource_link "90f5deee-c675-4b47-881e-5727c27c409c" "\"Twelve Miles: Boundaries of the New Art/Activism.\" (PDF)" %}} *Signs: Journal of Women in Culture and Society* 33, no. 2 (2008): 309–28.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
