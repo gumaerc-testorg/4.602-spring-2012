@@ -78,7 +78,7 @@ Eugène Delacroix, or How to Imagine Liberty
 
 ### Recitation
 
-Discuss readings and view a selection from the BBC program "{{% resource_link "5968daca-e9c7-4b88-8820-278d47621dfa" "Ways Of Seeing" %}}".
+Discuss readings and view a selection from the BBC program "[Ways Of Seeing](http://www.imdb.com/title/tt1302546/)".
 
 View the program "Pictures Beneath the Cobblestones: July 28, 1830, Liberty Leading the People".
 
@@ -470,7 +470,7 @@ Complete all oral presentations by the end of this week.
 
 ### Recitation
 
-View Debord's "{{% resource_link "edd90c49-bc17-4d2f-a3d1-a856b3c638f2" "Society of the Spectacle" %}}".
+View Debord's "[Society of the Spectacle](http://www.imdb.com/title/tt0070712/)".
 
 Discuss readings.
 
